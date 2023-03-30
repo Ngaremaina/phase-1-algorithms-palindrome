@@ -12,12 +12,12 @@ function isPalindrome(word) {
 
 /* 
   Add your pseudocode here
-  1. Initialise a variable named reverseword
-  2. Split the word into an array ofcharacters
-  3. Reverse the characters 
-  4. Join the characters together to form a reversed word
-  5. If the word is equal to the reverseword return true
-  6. Else return false
+  reverse the input string
+
+  if the reversed string is the same as the input
+    return true
+  else
+    return false
 */
 
 /*
